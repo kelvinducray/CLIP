@@ -1,0 +1,10 @@
+name: clip-experimentation
+
+dependencies:
+- ftfy
+- regex
+- tqdm
+- pytorch::pytorch==1.7.1
+- pytorch::torchvision==0.8.2
+- pytorch::cudatoolkit=11.0
+- jupyter==1.0.0
