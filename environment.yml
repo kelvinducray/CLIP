@@ -1,10 +1,11 @@
 name: clip-experimentation
 
 dependencies:
+- python==3.8.10
 - ftfy
 - regex
 - tqdm
-- pytorch::pytorch==1.7.1
-- pytorch::torchvision==0.8.2
-- pytorch::cudatoolkit=11.0
 - jupyter==1.0.0
+- pip:
+  - torch==1.7.1
+  - torchvision==0.8.2
