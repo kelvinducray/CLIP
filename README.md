@@ -8,9 +8,13 @@
 ![CLIP](images/CLIP.png)
 
 # My Experimentation
-- Using CLIP as a way of storage meta-data
-- Prompt engineering
-- Unlabelled image search
+1. Using CLIP as a way of storage meta-data
+2. Prompt engineering to annotate scenes
+3. Unlabelled image search
+4. Exploration dimensionality reduction
 
 # Setup
-- ```conda env create -f environment.yml```
+- Create a new conda environment with the required dependencies and activate it:
+  - ```conda env create -f environment.yml```
+- Then run:
+  - ```conda activate clip && jupyter notebook```
