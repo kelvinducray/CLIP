@@ -14,6 +14,8 @@
 3. Unlabelled image search
 4. Exploration dimensionality reduction
 
+Please explote the notebooks for further explaination.
+
 ## Setup
 - Create a new conda environment with the required dependencies and activate it:
   - ```conda env create -f environment.yml```
