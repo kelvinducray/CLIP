@@ -17,6 +17,10 @@
 Please explote the notebooks for further explaination.
 
 ## Setup
+- Clone this repository:
+  - ```git clone https://github.com/kelvinducray/CLIP-experimentation.git```
+- Clone this repository for the sample ImageNet images:
+  - ```git clone https://github.com/EliSchwartz/imagenet-sample-images.git ./CLIP-experimentation/data/imagenet_sample```
 - Create a new conda environment with the required dependencies and activate it:
   - ```conda env create -f environment.yml```
 - Then run:
